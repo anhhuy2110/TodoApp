@@ -15,9 +15,6 @@ Cần có một ứng dụng để cho quản lý công việc cá nhân.
 - [ ] Cập nhật trạng thái của ghi chú bằng checkbox.
 - [ ] Mọi dữ liệu được lưu dưới máy bằng [SharedPreferences](https://pub.dev/packages/shared_preferences).
 
-## Git
-
-Có thể sử dụng commandline, git tích hợp sẵn trên IDE hoặc phần mềm [SourceTree](https://www.sourcetreeapp.com/)
 
 ## UI/UX
 
