@@ -7,7 +7,6 @@ Cần có một ứng dụng để cho quản lý công việc cá nhân.
 
 ## Yêu cầu chi tiết
 
-- [ ] Clone git, tạo nhánh mới từ nhánh main. Dùng Flutter để xây dựng ứng dụng.
 - [ ] Sử dụng một mã PIN để truy cập vào ứng dụng. Lần đầu vào ứng dụng thì sẽ phải set mã PIN và có thể thay đổi sau. 
 - [ ] Tạo một công việc với các thông tin cơ bản: Tiêu đề, nội dung, deadline.
 - [ ] Một task có thể có ds các đầu việc cần phải làm.
