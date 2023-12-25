@@ -15,9 +15,5 @@ Cần có một ứng dụng để cho quản lý công việc cá nhân.
 - [ ] Mọi dữ liệu được lưu dưới máy bằng [SharedPreferences](https://pub.dev/packages/shared_preferences).
 
 
-## UI/UX
-
-Sử dụng phần mềm Figma, dựa theo UI/UX chính [tại đây](https://www.figma.com/file/g5Z6cJsF8F0oQoCn1T1DX1/%5BMobile%5D-Task-Management-App?t=FIH9AHBbWVLy9aXa-1)
-Một số màn hình chưa có UI/UX trên figma thì có thể tự do xây dựng UI/UX miễn phù hợp với yêu cầu.
 
 
